@@ -1,0 +1,16 @@
+.footer {
+  max-width: 880px;
+  width: 100%;
+  position: relative;
+  margin: 65px auto 60px auto;
+}
+
+.footer__copyright {
+  width: 318px;
+  margin: 0;
+  font-family: inter, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 0.83;
+  color: #545454;
+}

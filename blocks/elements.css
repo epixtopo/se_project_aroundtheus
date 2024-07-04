@@ -1,0 +1,15 @@
+.elements {
+  max-width: 880px;
+  width: 100%;
+  position: relative;
+  margin: 50px auto 0 auto;
+}
+
+.elements__cards {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, 282px);
+  grid-gap: 20px 17px;
+  margin: 0;
+  padding: 0;
+}
