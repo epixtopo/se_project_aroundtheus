@@ -23,3 +23,5 @@ The way you'll do this at work is by exporting images directly from Figma — we
 
 
 https://github.com/epixtopo/se_project_aroundtheus.git
+
+video was sudgested to make it after the first review to have the major issues fixed. I'll add it later. Thanks
