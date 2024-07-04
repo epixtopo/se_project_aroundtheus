@@ -14,3 +14,21 @@
   line-height: 0.83;
   color: #545454;
 }
+
+@media screen and (max-width: 620px) and (min-width: 320px) {
+  .footer {
+    max-width: 282px;
+    width: 100%;
+    position: relative;
+    margin: 50px auto 40px auto;
+  }
+
+  .footer__copyright {
+    width: 282px;
+    margin: 0;
+    font-family: inter, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 0.83;
+  }
+}
